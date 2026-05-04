@@ -31,3 +31,9 @@
 **Files created**: pycm/ci.py, Test/ci_test.py
 **Commit**: Implement ci module with confidence interval calculations (normal approximation, Wilson, Agresti-Coull methods, SE calculations for AUC, LR, kappa)
 **Verification**: tests FAIL on previous state (ModuleNotFoundError), PASS on current state
+
+## Round 6
+**Task**: Task 6 — Implement class_funcs module with class-level statistics calculations
+**Files created**: pycm/class_funcs.py, Test/class_funcs_test.py
+**Commit**: Implement class_funcs module with 40+ class-level metrics (TPR, TNR, PPV, NPV, F-scores, MCC, AUC, CEN, Jaccard, Yule's Q, Gini index, etc.)
+**Verification**: tests FAIL on previous state (ModuleNotFoundError), PASS on current state
