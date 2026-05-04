@@ -7,3 +7,9 @@
 **Files created**: pycm/params.py, Test/params_test.py
 **Commit**: Implement params module with version constants, error messages, parameter dictionaries, benchmark score mappings, HTML templates, color definitions, and mathematical coefficients
 **Verification**: tests FAIL on previous state (ModuleNotFoundError), PASS on current state
+
+## Round 2
+**Task**: Task 2 — Implement errors module with custom exception classes
+**Files created**: pycm/errors.py, Test/error_classes_test.py
+**Commit**: Implement errors module with pycmVectorError, pycmMatrixError, pycmCIError, pycmAverageError, pycmCompareError, pycmPlotError, pycmCurveError, pycmMultiLabelError
+**Verification**: tests FAIL on previous state (ModuleNotFoundError), PASS on current state
