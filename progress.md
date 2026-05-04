@@ -25,3 +25,9 @@
 **Files created**: pycm/utils.py, Test/utils_test.py
 **Commit**: Implement utils module with vector/matrix validation, filtering, calculation helpers, normalization, sparse matrix, transpose, and mathematical utilities
 **Verification**: tests FAIL on previous state (ModuleNotFoundError), PASS on current state
+
+## Round 5
+**Task**: Task 5 — Implement ci module with confidence interval calculations
+**Files created**: pycm/ci.py, Test/ci_test.py
+**Commit**: Implement ci module with confidence interval calculations (normal approximation, Wilson, Agresti-Coull methods, SE calculations for AUC, LR, kappa)
+**Verification**: tests FAIL on previous state (ModuleNotFoundError), PASS on current state
