@@ -37,3 +37,9 @@
 **Files created**: pycm/class_funcs.py, Test/class_funcs_test.py
 **Commit**: Implement class_funcs module with 40+ class-level metrics (TPR, TNR, PPV, NPV, F-scores, MCC, AUC, CEN, Jaccard, Yule's Q, Gini index, etc.)
 **Verification**: tests FAIL on previous state (ModuleNotFoundError), PASS on current state
+
+## Round 7
+**Task**: Task 7 — Implement overall_funcs module with overall statistics calculations
+**Files created**: pycm/overall_funcs.py, Test/overall_funcs_test.py
+**Commit**: Implement overall_funcs module with 50+ overall metrics (Kappa, entropy, chi-squared, lambda, Bangdiwala's B, ARI, p-value, macro/micro averages)
+**Verification**: tests FAIL on previous state (ModuleNotFoundError), PASS on current state
